@@ -9,7 +9,7 @@ Here is a quick test of the program:
 Use Cases:
 
  - You get to know a bit about me! I have always wanted to go to New Zealand and visit the Lord of the Ring's Movie Set! 
- - Learning how to use '\' in a String.
+ - Learning how to use (\) in a String.
 
 Problems: 
 
