@@ -1,6 +1,6 @@
 Created: 01/12/2022
 
-This program outupts my favorite country and landmark from that country, and tests the "\" key in a String.
+This program outupts my favorite country and landmark from that country, and tests the \ key in a String.
 
 Here is a quick test of the program:
 
