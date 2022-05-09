@@ -1,6 +1,6 @@
 Created: 01/12/2022
 
-This program outupts my favorite country and landmark from that country, and tests the \ key in a String.
+This program outupts my favorite country and landmark from that country, and tests the (\) key in a String.
 
 Here is a quick test of the program:
 
@@ -9,7 +9,7 @@ Here is a quick test of the program:
 Use Cases:
 
  - You get to know a bit about me! I have always wanted to go to New Zealand and visit the Lord of the Ring's Movie Set! 
- - Learning how to use "\" in a String.
+ - Learning how to use '\' in a String.
 
 Problems: 
 
